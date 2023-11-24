@@ -137,7 +137,7 @@ __Para el manejo de datos ocuparemos el software _Postgresql_ debido a su facili
 
 El diagrama de la base de datos es el sigueinte:
 
-![DataBase Diagram](out/src/DatabaseDiagrams/Cafeteria/Cafeteria.png)
+![DataBase Diagram](./assets/images/Cafeteria.png)
 
 ### Interfaces de comunicaciones
 
