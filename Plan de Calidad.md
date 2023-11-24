@@ -40,3 +40,10 @@ Planificar y gestionar los lanzamientos para asegurar una integración y desplie
 Diseñar y construir la aplicación con una arquitectura que permita escalar fácilmente a medida que aumenta el número de usuarios y pedidos.
 ### Herramientas Administrativas: 
 Desarrollar funcionalidades que permitan generar reportes y gestionar aspectos administrativos de manera eficiente a medida que el proyecto crece.
+
+## Gestión de Presupuesto y Recursos:
+
+### Eficiencia de Costos: 
+Vigilar de cerca los gastos para asegurarte de que el proyecto se mantenga dentro del presupuesto.
+### Maximización de Recursos: 
+Utilizar metodologías ágiles y herramientas de gestión de proyectos para maximizar la eficiencia y la productividad del equipo.
