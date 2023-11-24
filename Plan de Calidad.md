@@ -13,3 +13,10 @@ Asegurar de que la app funcione fluidamente en dispositivos con hardware menos p
 ### Pruebas de Carga y Estrés: 
 Realizar pruebas para evaluar cómo se comporta la aplicación bajo cargas de trabajo altas, simulando escenarios de uso intensivo.
 
+## Seguridad:
+
+### Protección de Datos y Transacciones: 
+Implementar cifrado y medidas de seguridad para proteger datos sensibles y transacciones financieras.
+### Auditorías y Pruebas de Penetración: 
+Realizar auditorías de seguridad regularmente y pruebas de penetración para identificar y solucionar vulnerabilidades.
+
