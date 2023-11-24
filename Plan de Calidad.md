@@ -33,3 +33,10 @@ Utilizar herramientas de revisión de código y análisis estático para mantene
 Adaptar la metodología de Feature Driven Development para asegurar entregas regulares y eficientes de nuevas características.
 ### Gestión de Releases: 
 Planificar y gestionar los lanzamientos para asegurar una integración y despliegue continuos de las mejoras.
+
+## Escalabilidad y Crecimiento:
+
+### Arquitectura Escalable: 
+Diseñar y construir la aplicación con una arquitectura que permita escalar fácilmente a medida que aumenta el número de usuarios y pedidos.
+### Herramientas Administrativas: 
+Desarrollar funcionalidades que permitan generar reportes y gestionar aspectos administrativos de manera eficiente a medida que el proyecto crece.
