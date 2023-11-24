@@ -20,3 +20,9 @@ Implementar cifrado y medidas de seguridad para proteger datos sensibles y trans
 ### Auditorías y Pruebas de Penetración: 
 Realizar auditorías de seguridad regularmente y pruebas de penetración para identificar y solucionar vulnerabilidades.
 
+## Mantenibilidad y Calidad del Código:
+
+### Estándares de Codificación: 
+Establecer y mantener estándares de codificación claros y concisos para TypeScript y JavaScript.
+### Revisión de Código y Análisis Estático: 
+Utilizar herramientas de revisión de código y análisis estático para mantener una alta calidad y facilitar futuras modificaciones o expansiones.
