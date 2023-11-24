@@ -1,7 +1,6 @@
 Links:
 
 Repositorios de Software Innovators:
-
 [Software-innovators Repositorios Proyecto Final](https://github.com/Software-Innovators-ITAM)
 
 Aplicación:
