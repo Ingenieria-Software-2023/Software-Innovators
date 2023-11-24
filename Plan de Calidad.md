@@ -26,3 +26,10 @@ Realizar auditorías de seguridad regularmente y pruebas de penetración para id
 Establecer y mantener estándares de codificación claros y concisos para TypeScript y JavaScript.
 ### Revisión de Código y Análisis Estático: 
 Utilizar herramientas de revisión de código y análisis estático para mantener una alta calidad y facilitar futuras modificaciones o expansiones.
+
+## Tasa de Entrega:
+
+### Entregas Regulares: 
+Adaptar la metodología de Feature Driven Development para asegurar entregas regulares y eficientes de nuevas características.
+### Gestión de Releases: 
+Planificar y gestionar los lanzamientos para asegurar una integración y despliegue continuos de las mejoras.
